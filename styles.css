@@ -75,7 +75,7 @@ blockquote {
   font-size: 17px;
 }
 
-.last {
+section .last {
   text-align: left;
   width: 100%;
 }
