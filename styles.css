@@ -8,8 +8,8 @@ body {
 }
 
 main {
-  margin: 0;
-  padding: 0;
+  margin: 20px 8px;
+  padding: 20px;
   background-color: #eeeeee;
   border-radius: 5.5px;
 }
